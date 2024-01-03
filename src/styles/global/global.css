@@ -40,7 +40,7 @@ body{background-color:#000000;
   font-size: 1.7em; 
  background-color: rgba(10, 10, 10, 0.7);
 }
-@media (min-width: 768px)
+@media (min-width: 768px;)
 {
   .lg
   {
