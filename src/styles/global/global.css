@@ -34,16 +34,17 @@ body{background-color:#000000;
 .lg {background-image: url(../images/lg.webp);background-size:100%; 
   background-clip: text;-webkit-background-clip:text; color:transparent;
   -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: #fff;
+  -webkit-text-stroke-color: #fff; 
+  font-family:'Ubuntu', sans-serif; text-align:center; font-weight: 900; 
+  padding:0; margin:0; 
+  font-size: 1.7em; 
+ background-color: rgba(10, 10, 10, 0.7);
 }
 h1,h2,h3{
   padding:0 0 0 0;
 }
-h1{font-family:'Ubuntu', sans-serif; text-align:center; font-weight: 900; 
-  padding:0; margin:0; 
-  font-size: 1.7em; 
- background-color: rgba(10, 10, 10, 0.7);}
-h2{font-family:'Ubuntu', sans-serif; font-size:2.2em; line-height:2em; color:#fff; 
+h1{color:#ffffff; font-size:1.6em; line-height:1.6em;}
+h2{font-family:'Ubuntu', sans-serif; font-size:1.5em; line-height:1.5em; color:#fff; 
   margin:0 0 0 40px;}
 @media (min-width: 768px)
 {
