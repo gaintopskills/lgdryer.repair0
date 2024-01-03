@@ -40,7 +40,7 @@ body{background-color:#000000;
   font-size: 1.7em; 
  background-color: rgba(10, 10, 10, 0.7);
 }
-@media (min-width: 768px;)
+@media (min-width: 768px)
 {
   .lg
   {
@@ -74,7 +74,6 @@ img.responsiveimg {
   height: auto;
   max-width: 600px;
   margin:15px 0 0 0;
-  align: center;
   z-index:-1;
   border-radius: 30px 30px 30px 30px;
   border: 1px #fff solid;
@@ -138,7 +137,6 @@ border-radius: 10px;
 user-select: none;
 -webkit-user-select: none;
 touch-action: manipulation;
-align:center;
 }
 p.bt{width:240px; margin:25px auto 10px auto;}
 
